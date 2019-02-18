@@ -1,5 +1,5 @@
 /** Vincent Nguyen
-    November 14, 2018
+    Febrauary 18, 2018
     The program reads four scores and drops the highest
     and lowest scores to find the average of the two
     remaining scores.
